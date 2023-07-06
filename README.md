@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Caeldemaria
 - 👀 I’m interested in Games,Music and Science
-- 🌱 I’m currently learning IT, Data scicence, language Frontand and Backand
+- 🌱 I’m currently learning IT, Data scicence, Fornt-end and Back-end languages
 - 💞️ I’m looking to collaborate on Projects in Datasicence, Power BI and Dev
 - 📫 How to reach me Git hub and Linkedin
 

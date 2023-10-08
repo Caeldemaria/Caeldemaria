@@ -1,10 +1,9 @@
+
 - 👋 Hi, I’m @Caeldemaria
 - 👀 I’m interested in Games,Music and Science
 - 🌱 I’m currently learning IT, Data scicence, Front-end and Back-end languages
 - 💞️ I’m looking to collaborate on Projects in Datasicence, Power BI and Dev
-- 📫 How to reach me Git hub and Linkedin
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Caeldemaria&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caeldemaria&hide_progress=true&theme=tokyonight)
 
-<!---
-Caeldemaria/Caeldemaria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  
